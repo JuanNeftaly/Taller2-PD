@@ -55,7 +55,7 @@ Para activar estos conjuros, invoca al lenguaje ancestral:
 ## 🏆 Conclusión
 
 Has emprendido un sendero de rigor, valentía y determinación.
-Si completas estos doce ritos, tu nombre será inscrito en los Anales de los Programadores de la Era Declarativa.
+Si completas estos doce ritos, tu nombre será inscrito en el Codex de los Programadores de la Era Declarativa.
 
 Que tu sintaxis sea pura.
 Que tus paréntesis nunca se cierren antes de tiempo.
