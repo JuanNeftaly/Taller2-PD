@@ -50,3 +50,13 @@ Para activar estos conjuros, invoca al lenguaje ancestral:
 
 ```racket
 #lang racket
+```
+
+## 🏆 Conclusión
+
+Has emprendido un sendero de rigor, valentía y determinación.
+Si completas estos doce ritos, tu nombre será inscrito en los Anales de los Programadores de la Era Declarativa.
+
+Que tu sintaxis sea pura.
+Que tus paréntesis nunca se cierren antes de tiempo.
+Y que la luz del Oráculo guíe tu código hacia un destino glorioso.
