@@ -56,7 +56,7 @@
 (define (aplicarFuncion f lista)
   (map f lista))
 
-; ejercicio 12. promedio de numeros mayores a 5
+; ejercicio 12. promedio de numeros mayores a :v
 (define (promedioMayores5 lista)
   (let* ([mayores (filter (lambda (x) (> x 5)) lista)]
          [suma (foldl + 0 mayores)])
