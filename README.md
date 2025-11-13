@@ -1,4 +1,4 @@
-# 🛡️ README — Crónicas del Taller II de Programación Declarativa
+# 🛡️Crónicas del Taller II de Programación Declarativa. Saga de Racket
 ### Relatado por el Oráculo Noba al Caballero Sacro Neftaly
 
 ---
